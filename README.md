@@ -30,18 +30,14 @@ Screen all copy for fair housing compliance automatically
 
 ---
 
-## Before You Start — Download Cursor
+## Before You Start — Download Claude
 
-Cursor is the free AI tool that powers this entire system.
+Claude is the free AI tool that powers this entire system.
 
-Step 1: Go to cursor.com
-Step 2: Click the Download for Mac or Download for Windows button
-Step 3: Install Cursor the same way you install any app
-        Mac: drag it into your Applications folder
-        Windows: click through the install prompts
-Step 4: Open Cursor — you will see a welcome screen
+Step 1: Go to App store and download Claude or visit https://claude.ai
+Step 2: Create an account
 
-Keep Cursor open and come back here for the next steps.
+Keep Claude open and come back here for the next steps.
 
 ---
 
@@ -76,30 +72,14 @@ Step 6: Drag that folder to your Desktop
 
 ---
 
-### Part 2: Open the Starter Kit in Cursor
+### Part 2: Open the Starter Kit in Claude
 
-Step 1: Go back to Cursor on your computer
+Step 1: Go back to Claude on your computer/mobile
 
 Step 2: Click File at the top menu
         Then click Open Folder
 
-Step 3: Navigate to your Desktop
-        Click on kw-ai-skills-starter-main
-        Click Open
-
-Step 4: You should now see a list of folders 
-        on the left side of Cursor that looks like this:
-
-        agents
-            skills
-            marketing
-            neighborhood-profiles
-            templates
-            archive
-        .cursorrules
-        README.md
-
-        If you can see that list you are in the right place.
+Step 3: Navigate to your File "kw-ai-skills-starter-main" > Click Open
 
 ---
 
@@ -107,40 +87,15 @@ Step 4: You should now see a list of folders
 
 This is the most important step.
 The AI is only as good as the information you give it.
-Budget 45 to 60 minutes for this step.
+Plan 45 to 60 minutes for this step.
 
-Step 1: In the left panel of Cursor
-        Click the agents folder to open it
-        Click the skills folder to open it
-        Click on real-estate-context-TEMPLATE.md
-
-Step 2: You will see a file full of instructions
-        and sections marked with brackets like this:
-        [YOUR NAME]
-        [YOUR PHONE]
-        [TARGET NEIGHBORHOOD]
-
-Step 3: Replace every single bracket with your 
-        real information
-        Do not leave any brackets blank
-        Every section you fill in makes your 
-        AI assistant more powerful and specific
-
-Step 4: When you have filled out every section
-        click File at the top menu
-        click Save As
-        name the file: real-estate-context.md
-        make sure you are saving it inside the
-        agents/skills/ folder
-        click Save
+Step 1: Once the document is opened in Claude you will be prompted to input your information
 
 ---
 
 ### Part 4: Test Your AI Assistant
 
-Step 1: In Cursor press Command + L on Mac
-        or Ctrl + L on Windows
-        A chat panel will open on the right side
+Step 1: In Claude
 
 Step 2: Type this exactly and press Enter:
 
@@ -189,9 +144,6 @@ Step 9: Click File then Clone Repository
 Step 10: Select real-estate-ai-skills
 Step 11: Set the location to your Desktop
 Step 12: Click Clone
-Step 13: Open Cursor and follow Part 2 and 
-         Part 3 from the Simple Setup above
-         starting from Open the Starter Kit in Cursor
 
 ---
 
