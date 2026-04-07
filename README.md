@@ -230,20 +230,4 @@ Check for compliance:
 
 ---
 
-## Need Help Setting Up
-
-[YOUR NAME]
-[YOUR PHONE]
-[YOUR EMAIL]
-[YOUR INSTAGRAM HANDLE]
-
----
-
-## About This System
-
-Built by [YOUR NAME] with Keller Williams [MARKET CENTER]
-Designed for KW agents who want to work smarter
-use AI tools that follow their specific playbooks
-and spend less time on content and more time with clients
-
 Equal Housing Opportunity
