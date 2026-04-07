@@ -1,5 +1,4 @@
 # KW Real Estate AI Skills — Starter Kit
-Built for Keller Williams Agents by [YOUR NAME] | KW [MARKET CENTER]
 
 ---
 
